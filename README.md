@@ -1,5 +1,6 @@
 <h1 align="center">USRBG</h1>
 <p align="center">This is a fork from Cr3atable's USRBG theme</p>
+<p align="center">Note: This theme is currently not working, I will fix it when I feel like it ;)</p>
 <p align="center">A database of custom user requested backgrounds designed for BetterDiscord and Powercord.</p>
 
 ![](https://i.imgur.com/dvrQxNh.png)
