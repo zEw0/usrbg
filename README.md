@@ -5,23 +5,9 @@
 ![](https://i.imgur.com/dvrQxNh.png)
 
 ## Request your own USRBG
-Option 1:
-* Join this Discord Server > [Black Box](https://discord.gg/TeRQEPb), use a bot command in [#background-request](https://discord.com/channels/449175561529589761/645627516794699787/) and wait for approval.
-
-Option 2:
-* Make a pull request and wait for it to be merged.
-
-**All requests are processed manually** by a select few theme developers (as of right now). You should expect to **wait a short amount of time before** your background **is added.**
-
-All requests **MUST** be hosted on **i.imgur.com** or **cdn.discordapp.com**, or **unsplash.com**. Selfhosting will not be allowed, as this causes a security vulnerability when mass-distributing content to users.
-
-## Importing the Database
-
-```css
-@import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
-```
-
-This will import the USRBG database. Alone, it's simply some variables. Some of examples on how it can be utilized can be seen in the [Snippets](https://github.com/Discord-Custom-Covers/usrbg/tree/master/snippets) folder of this repo.
+Just dm me on discord and i will add your theme.
+Note: Self hosting is not allowed cuz i dont wanna get ip logged also NSFW content IS allowed cuz y not :)
+My discord: coming soon idiot
 
 ## Known themes that have USRBG built-in:
 * [Bash](https://github.com/A-User-s-Discord-Themes/Bash/) by A user (unmaintained)
